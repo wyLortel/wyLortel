@@ -5,16 +5,13 @@
 ---
 
 <p align="center">
-
-<strong><span style="font-size:1.8em; letter-spacing:0.05em;">
-歩幅合わせながら生きて行こうよ
-</span></strong><br>
-
-<em><span style="font-size:1.2em; color:#7d6ea7;">
-焦らないで。今は、これでいいんだよ~
-</span></em>
-
+  <strong>
+    <span style="font-size: 2.4em; letter-spacing: 0.07em; color: #6c4fa3; font-family: 'Noto Serif JP', serif;">
+      歩幅合わせながら生きて行こうよ
+    </span>
+  </strong>
 </p>
+
 
 
 ---
